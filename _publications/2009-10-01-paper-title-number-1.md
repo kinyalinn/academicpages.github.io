@@ -1,6 +1,6 @@
 ---
 title: "Dr. Tathagata Mukherjee"
-excerpt: "Short description of portfolio item number <br/><img src=![dr T.MD](https://github.com/kinyalinn/kinyalinn.github.io/files/8432751/dr.T.MD)
+excerpt:![dr T.MD](https://github.com/kinyalinn/kinyalinn.github.io/files/8432751/dr.T.MD)
 
 
 
