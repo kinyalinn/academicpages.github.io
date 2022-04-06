@@ -1,15 +1,25 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+title: "Dr. Tathagata Mukherjee"
+excerpt: "Short description of portfolio item number <br/><img src='/images/500x300.png'>" ![dr T.MD](https://github.com/kinyalinn/kinyalinn.github.io/files/8432751/dr.T.MD)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+DR. Tathagata Mukherjee is an assistant professor in the school of computer science.He is the proffesor incarge of the lab S305,His research interests span the domains of machine learning and its applications to cyber security, digital and mobile forensics, network centric warfare, and assured communications.
+His other research interests include Cyber Law (Privacy and Security), Adversarial Machine Learning, Radio Frequency Machine Learning, and real-world challenges in Computational Geometry, Graph Theory, and Optimization.
+The majority of his work has a law enforcement or military application.
+He has lately begun working in the field of Quantum Computation and Communication, with a focus on post-quantum cryptography and quantum machine learning. 
+
+learn more about DR Tathagata https://www.cs.uah.edu/~tm0130/
+
+
+
+     
+       
+       
+     
+
+
+   
+    
+
+  
