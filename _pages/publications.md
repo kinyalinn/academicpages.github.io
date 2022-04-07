@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "DR TATHAGATA MUKHERJEE"
+permalink: /DR TATHAGATA/
 author_profile: true
 ---
 
