@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "DR TATHAGATA MUKHERJEE"
+    url: /publications/
+
+  - title: "PROJECTS"
+    url: /talks/    
+
+  - title: "ACHIEVEMENTS"
+    url: /teaching/    
+    
+  - title: "STUDENTS"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
